@@ -1,0 +1,3 @@
+# Core demo runs on the Python standard library only.
+# Dev/test:
+pytest>=7.0

@@ -1,0 +1,10 @@
+{
+  "name": "Maria Alvarez",
+  "appointment": {
+    "provider": "Dr. Patel",
+    "specialty": "cardiology",
+    "date": "Thursday, June 18",
+    "time": "10:30 AM",
+    "location": "Riverside Clinic, 200 Oak Street, Suite 4"
+  }
+}
