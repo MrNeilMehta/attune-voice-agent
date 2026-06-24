@@ -5,7 +5,7 @@ call**: it greets the patient, states their appointment, understands their
 spoken reply, responds with warm and natural phrasing, and safely escalates to
 a human when someone asks for one or signals an emergency.
 
-It's a deliberately compact version of the kind of system Attune builds —
+It's a deliberately compact version of the kind of various comapnies build —
 empathetic, compliant voice automation for healthcare — built to be readable,
 testable, and easy to extend.
 
